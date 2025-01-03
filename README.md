@@ -35,15 +35,16 @@ Gemini AI Chat Application is an interactive web-based application that uses Goo
 
 ## Main Page
 
-![Screenshot 2025-01-03 134023](https://github.com/user-attachments/assets/72d79320-1666-4ad8-9599-c33f58438c03)
-
+![Screenshot 2025-01-03 134023](https://github.com/user-attachments/assets/75572647-9298-4ec8-8a39-e46fc92e73da)
 ## Search Animation
+![Screenshot 2025-01-03 134054](https://github.com/user-attachments/assets/9b0d6c48-fda2-43ae-bedf-18a347b82bf6)
 
-![Screenshot 2025-01-03 134054](https://github.com/user-attachments/assets/a94a05a0-bcf0-4958-b82a-d07b881e935a)
 
 ## AI-Generated answer to requested prompt and recent prompt option
 
-![Screenshot 2025-01-03 134216](https://github.com/user-attachments/assets/3d58cd09-e9a8-4c6c-a67c-04a56dfe966b)
+
+![Screenshot 2025-01-03 134216](https://github.com/user-attachments/assets/d169f6d1-fc75-421c-b786-2befee6496d8)
+
 
 
 
