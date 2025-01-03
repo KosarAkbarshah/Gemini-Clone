@@ -3,6 +3,10 @@
 ## Overview📌
 Gemini AI Chat Application is an interactive web-based application that uses Google Generative AI for natural language responses. The application includes a dynamic sidebar for managing conversations, a main chat interface, and features such as previous prompt recall and real-time message generation.
 
+## Demo Project🧩
+(https://gemini-clone-psi-mauve.vercel.app/)
+
+
 ## Features🧩
 
 - **Generative AI Integration**: Uses Google Generative AI (`@google/generative-ai`) to generate conversational responses.
